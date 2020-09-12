@@ -1,4 +1,4 @@
-# MYSQL-BACKUP-SHELL-SCRIPT
+# An Automated Mysql backup shell script for ubuntu OS's.
 
 * Script for mysql database backup, linux ubuntu.
 * Download the script.
